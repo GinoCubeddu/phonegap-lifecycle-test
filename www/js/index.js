@@ -9,7 +9,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 function updateDisplay() {
 	$("#launched").text("Application launched: " + launched_count);
 	$("#resumed").text("Application paused: " + paused_count);
-	$("#paused").text("Application resumed: " + resumed_count);
+	$("#paused").text("THE APPLICATION HAS BEEN RESUMED: " + resumed_count + " TIMES!!");
 }
 
 
