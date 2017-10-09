@@ -6,7 +6,7 @@
         id        = "mob.app.dev.lifecycle"
         version   = "1.0.0">
 
-    <name>A new name</name>
+    <name>The App has a new Name!</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
