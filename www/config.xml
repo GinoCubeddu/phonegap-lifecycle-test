@@ -6,7 +6,7 @@
         id        = "mob.app.dev.lifecycle"
         version   = "1.0.0">
 
-    <name>Application Lifecycle Test</name>
+    <name>A new name</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
@@ -17,9 +17,9 @@
     </author>
 
     <preference name="phonegap-version" value="cli-7.0.1" />
-	
-    <preference name="permissions"                value="none"/>   
-	
+
+    <preference name="permissions"                value="none"/>
+
 	<access origin="*"/>
    	<plugin name="cordova-plugin-whitelist" version="1" />
 </widget>
